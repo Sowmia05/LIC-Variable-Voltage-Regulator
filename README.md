@@ -43,3 +43,4 @@ PC with LT Spice Software
 <img width="1600" height="859" alt="image" src="https://github.com/user-attachments/assets/4b423600-3fa2-40c0-ba80-0e650f33a257" />
 
 ## Result:
+![WhatsApp Image 2025-11-24 at 12 42 43 PM](https://github.com/user-attachments/assets/13133085-980d-409a-9d68-e3f70844962e)
